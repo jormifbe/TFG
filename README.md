@@ -20,16 +20,16 @@ Como se detalla en el TFG, este primer caso se abordó de dos maneras: una fue d
 obteniendo un resultado de N^m dimensiones. Debido al coste computacional esto se implementó con un número bajo de puntos y empleando computación paralela en Matlab,
 haciendo uso de la GPU de mi ordenador personal.\
 <br/>
-- El código de este caso es [pendulo_gpu.m](pendulo_gpu.m)
+- El código de este caso es [pendulo_gpu.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/pendulo_gpu.m)
 
 Y los resultados se pueden ver en esta [imagen](tiempo2.PNG) y el tiempo de computación fue:
 
-![tiempo](tiempo.PNG) 
+![tiempo](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/tiempo.PNG) 
 
 Por otra parte, se procedió en el resto del trabajo a emplear un método de Montecarlo modificado de manera que el resultado fuera de dimension NxM y los tiempos de computación
 fueran razonables.
 
-- El código que emplea este método para el caso del péndulo es [pendulo.m](pendulo.m) 
+- El código que emplea este método para el caso del péndulo es [pendulo.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/pendulo.m) 
 
 [Back To The Top](#tfg)
 
@@ -40,11 +40,11 @@ fueran razonables.
 En este apartado se hace el proceso con 3 casos: r y h independientes, totalmente correlacionados y un caso intermedio. Aquí abajo se encuentra el código para cada uno de ellos.
 
 #### ρ=0
-[cilindro_rho_0.m](cilindro_rho_0.m) 
+[cilindro_rho_0.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/cilindro_rho_0.m) 
 #### ρ=1
-[cilindro_rho_1.m](cilindro_rho_1.m) 
+[cilindro_rho_1.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/cilindro_rho_1.m) 
 #### ρ=0.5
-[cilindro_rho_0_5.m](cilindro_rho_0_5.m) 
+[cilindro_rho_0_5.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/cilindro_rho_0_5.m) 
 
 
 ---
