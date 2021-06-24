@@ -8,13 +8,13 @@ Este repositorio de GitHub contiene todo el código de MATLAB creado y empleado 
 
 
 ### Índice
-- [Cálculo de g con un péndulo](#cálculo-de-g)
+- [Cálculo de g con un péndulo](#cálculo-de-g-con-un-péndulo)
 - [Área y volumen de un cilindro](#área-y-volumen-de-un-cilindro)
 - [Author Info](#autor)
 
 ---
 
-## Cálculo de g 
+## Cálculo de g con un péndulo
 Como se detalla en el TFG, este primer caso se abordó de dos maneras: una fue de la manera ortodoxa de realizar la simulación de Montecarlo que se describe en la introducción del trabajo, es decir,
 obteniendo un resultado de N^m dimensiones. Debido al coste computacional esto se implementó con un número bajo de puntos y empleando computación paralela en Matlab,
 haciendo uso de la GPU de mi ordenador personal.\
