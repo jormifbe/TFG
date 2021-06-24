@@ -21,7 +21,7 @@ haciendo uso de la GPU de mi ordenador personal.\
 <br/>
 - El código de este caso es [pendulo_gpu.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/pendulo_gpu.m)
 
-Y los resultados se pueden ver en esta [imagen](tiempo2.PNG) y el tiempo de computación fue:
+Y los resultados se pueden ver en esta [imagen](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/tiempo2.PNG) y el tiempo de computación fue:
 
 ![tiempo](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/tiempo.PNG) 
 
