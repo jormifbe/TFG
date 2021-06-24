@@ -1,5 +1,4 @@
-# TFG
-# Propagación de errores en medidas indirectas: comparación de métodos analíticos y métodos numéricos
+# TFG - Propagación de errores en medidas indirectas: comparación de métodos analíticos y métodos numéricos
 ![Project Image](https://www.uv.es/recursos/fatwirepub/ccurl/968/356/Cap_FAC_FISICA_en.png)
 
 
@@ -31,7 +30,6 @@ fueran razonables.
 
 - El código que emplea este método para el caso del péndulo es [pendulo.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/pendulo.m) 
 
-[Back To The Top](#tfg)
 
 ---
 
@@ -54,4 +52,4 @@ En este apartado se hace el proceso con 3 casos: r y h independientes, totalment
 
 - Jorge Mifsut Benet [jormifbe@alumni.uv.es](mailto:jormifbe@alumni.uv.es)
 
-[Back To The Top](#tfg)
+[Back To The Top](#tfg---propagación-de-errores-en-medidas-indirectas-comparación-de-métodos-analíticos-y-métodos-numéricos)
