@@ -47,9 +47,6 @@ En este apartado se hace el proceso con 3 casos: r y h independientes, totalment
 [cilindro_rho_0_5.m](cilindro_rho_0_5.m) 
 
 
-## References
-[Back To The Top](#read-me-template)
-
 ---
 
 
