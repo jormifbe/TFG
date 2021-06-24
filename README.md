@@ -9,13 +9,9 @@ Este repositorio de GitHub contiene todo el código de MATLAB creado y empleado 
 
 
 ### Índice
-You're sections headers will be used to reference location of destination.
-
 - [Cálculo de g con un péndulo](#cálculo-de-g)
-- [Área y volumen de un cilindro](#Área-y-volumen-de-un-cilindro)
-- [ρ=0](#ρ=0)
-- [License](#license)
-- [Author Info](#author-info)
+- [Área y volumen de un cilindro](#área-y-volumen-de-un-cilindro)
+- [Author Info](#autor)
 
 ---
 
@@ -41,10 +37,14 @@ fueran razonables.
 
 ## Área y volumen de un cilindro
 
-#### ρ=0
-#### ρ=1
-#### ρ=0.5
+En este apartado se hace el proceso con 3 casos: r y h independientes, totalmente correlacionados y un caso intermedio. Aquí abajo se encuentra el código para cada uno de ellos.
 
+#### ρ=0
+[cilindro_rho_0.m](cilindro_rho_0.m) 
+#### ρ=1
+[cilindro_rho_1.m](cilindro_rho_1.m) 
+#### ρ=0.5
+[cilindro_rho_0_5.m](cilindro_rho_0_5.m) 
 
 
 ## References
