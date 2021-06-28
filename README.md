@@ -52,7 +52,7 @@ En este apartado se hace el proceso con 3 casos: r y h independientes, totalment
 
 - [eq_orbitas.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/eq_orbitas.m)
 - [Satelite.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/Satelite.m)
-- [tierra.m]((https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/tierra.m)
+- [tierra.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/tierra.m)
 
 ---
 
