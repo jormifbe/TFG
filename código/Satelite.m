@@ -1,4 +1,4 @@
-function drdt = Satelite(t,CI)
+function dstatedt = Satelite(t,CI)
 
 x = CI(1);
 y = CI(2);
@@ -21,4 +21,4 @@ accel = -(alpha/mu).*ru./(rn.^2);                   % 2) mu r'' = - a/r^3 r
 
 
 
-drdt = [vel;accel];   % sist eq diferenciales homogeneas      
+dstatedt = [vel;accel];   % sist eq diferenciales homogeneas      
