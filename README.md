@@ -62,8 +62,8 @@ Para este apartado hay 3 funciones:
 En este apartado se realizó la resolución de la ecuación diferencial con condiciones de entrada puntuales (sin error) y con distribuciones de entrada (Montecarlo)
 y los códigos de Matlab para cada una son los siguientes
 
--[lorentz.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/lorentz_distr.m) (sin errores)
--[lorentz_distr.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/lorentz_distr.m) (Montecarlo)
+- [lorentz.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/lorentz_distr.m) (sin errores)
+- [lorentz_distr.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/lorentz_distr.m) (Montecarlo)
 
 ---
 
