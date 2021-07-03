@@ -50,9 +50,20 @@ En este apartado se hace el proceso con 3 casos: r y h independientes, totalment
 
 ## Órbita de un satélite
 
-- [eq_orbitas.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/eq_orbitas.m)
-- [Satelite.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/Satelite.m)
-- [tierra.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/tierra.m)
+Para este apartado hay 3 funciones:
+
+- [eq_orbitas.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/eq_orbitas.m) es la función principal
+- [Satelite.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/Satelite.m) contiene el sistema de ecuaciones diferencial a resolver
+- [tierra.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/tierra.m) contiene datos numericos sobre la Tierra
+
+---
+## Atractor de Lorentz
+
+En este apartado se realizó la resolución de la ecuación diferencial con condiciones de entrada puntuales (sin error) y con distribuciones de entrada (Montecarlo)
+y los códigos de Matlab para cada una son los siguientes
+
+-[lorentz.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/lorentz_distr.m) (sin errores)
+-[lorentz_distr.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/lorentz_distr.m) (Montecarlo)
 
 ---
 
