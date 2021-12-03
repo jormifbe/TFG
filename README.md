@@ -11,7 +11,7 @@ Este repositorio de GitHub contiene todo el código de MATLAB creado y empleado 
 - [Cálculo de g con un péndulo](#cálculo-de-g-con-un-péndulo)
 - [Área y volumen de un cilindro](#área-y-volumen-de-un-cilindro)
 - [Órbita de un satélite](#órbita-de-un-satélite)
-- [Atractor de Lorentz](#atractor-de-lorenz)
+- [Atractor de Lorenz](#atractor-de-lorenz)
 - [Autor](#autor)
 
 ---
