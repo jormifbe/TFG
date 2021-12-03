@@ -11,7 +11,7 @@ Este repositorio de GitHub contiene todo el código de MATLAB creado y empleado 
 - [Cálculo de g con un péndulo](#cálculo-de-g-con-un-péndulo)
 - [Área y volumen de un cilindro](#área-y-volumen-de-un-cilindro)
 - [Órbita de un satélite](#órbita-de-un-satélite)
-- [Atractor de Lorentz](#atractor-de-lorentz)
+- [Atractor de Lorentz](#atractor-de-lorenz)
 - [Autor](#autor)
 
 ---
@@ -58,12 +58,12 @@ Para este apartado hay 3 funciones:
 - [tierra.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/tierra.m) contiene datos numericos sobre la Tierra
 
 ---
-## Atractor de Lorentz
+## Atractor de Lorenz
 
 En este apartado se realizó la resolución de la ecuación diferencial con condiciones de entrada puntuales (sin error) y con distribuciones de entrada (Montecarlo)
 y los códigos de Matlab para cada una son los siguientes
 
-- [lorentz.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/lorentz_distr.m) (sin errores)
+- [lorenz.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/lorentz_distr.m) (sin errores)
 - [lorentz_distr.m](https://github.com/jormifbe/TFG/blob/main/c%C3%B3digo/lorentz_distr.m) (Montecarlo)
 
 ---
